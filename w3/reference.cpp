@@ -17,5 +17,9 @@ int main()
     cout << meal;
 
     cout << food;
+
+    cout << &meal << endl;
+    cout << &food << endl;
+
     return 0;
 }
